@@ -1,0 +1,15 @@
+html{
+    background-color: aliceblue;
+}
+
+body{
+    margin: auto;
+    font-family: inherit;
+    font-size: 16px;
+    color:#022848;
+    background-color: aliceblue;
+}
+
+h1{
+    color:cornflowerblue;
+}
